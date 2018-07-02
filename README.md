@@ -1,5 +1,4 @@
-# Introduction:
-Welcome to my GitHub!  
+# Welcome to my GitHub!  
 I am a current 3rd year student studying at Johns Hopkins University in Baltimore, MD, with majors in biomedical engineering 
 and computer science. My past experience has largely been in the computational biology field, working with genomic data
 and finding trends and indicators for cancer as well as cardiovascular disease. I hope to gain even more experience 
