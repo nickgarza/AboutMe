@@ -21,5 +21,5 @@ Our project was to create a model for a biological quorum sensing system. Essent
 Within the realm of computing, quorom sensing has important relevance to feedback control in general for decision making within a decentralized system.
 Our sample data to fit is included in this folder as a .csv file and running the .py script should generate plots of our model superimposed with the expected values.
 
-The code for these projects are not allowed to be publicly available as they were crucial projects in the EN.601.220 course within the CS department at JHU, but can be shared upon request through reaching me at my email: ngarza@jhu.edu
+The code for these projects are not allowed to be publicly available as they were crucial projects in courses within the CS and BME departments at JHU, but can be shared upon request through reaching me at my email: ngarza@jhu.edu
 
