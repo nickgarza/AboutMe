@@ -10,8 +10,9 @@ A few private projects not listed on this page include:
 1. Rudimentary Photoshop: written in ANSI C without use of APIs or such.  
 The functionality of the photoshop tool allowed for grayscale, cropping, saturation, and channel swapping of the input photo.
 
-2. Chess: written in C++ without the use of APIs or such.
-The C++ chess game simulated a full game of chess until either a stalemate or checkmate was reached. Additionally, the chess game allowed the saving of a current game and the loading of previous matches.
+2. Chess: written in C++ without the use of APIs or such.  
+The C++ chess game simulated a full game of chess until either a stalemate or checkmate was reached. Additionally, the chess game allowed the saving of a current game and the loading of previous matches.  
+<img width="564" alt="chess-screen" src="https://user-images.githubusercontent.com/28008631/42184317-1dcf047a-7e13-11e8-90e1-a9f793188a1e.png">
 
 
 3. Quorum Sensing Simulator:  
