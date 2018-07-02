@@ -8,7 +8,8 @@ source code.
 
 A few private projects not listed on this page include:  
 1. Rudimentary Photoshop: written in ANSI C without use of APIs or such.  
-The functionality of the photoshop tool allowed for grayscale, cropping, saturation, and channel swapping of the input photo.
+The functionality of the photoshop tool allowed for grayscale, cropping, saturation, and channel swapping of the input photo. <img width="638" alt="garden" src="https://user-images.githubusercontent.com/28008631/42184759-9a39cdb4-7e14-11e8-86c2-473d76feda93.png"> <img width="635" alt="garden-swap" src="https://user-images.githubusercontent.com/28008631/42184770-a4e46580-7e14-11e8-8edc-8fe0c8c7b56e.png"> <img width="636" alt="garden-grayscale" src="https://user-images.githubusercontent.com/28008631/42184783-af1cebee-7e14-11e8-86d5-2ba514428d30.png">   
+
 
 2. Chess: written in C++ without the use of APIs or such.  
 The C++ chess game simulated a full game of chess until either a stalemate or checkmate was reached. Additionally, the chess game allowed the saving of a current game and the loading of previous matches.  
