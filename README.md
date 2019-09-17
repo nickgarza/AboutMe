@@ -22,7 +22,7 @@ The C++ chess game simulated a full game of chess until either a stalemate or ch
 <img width="564" alt="chess-screen" src="https://user-images.githubusercontent.com/28008631/42184317-1dcf047a-7e13-11e8-90e1-a9f793188a1e.png">
 
 
-## 4. Quorum Sensing Simulator: Python simulation under assumptions of Hill Equation.  
+## 4. Quorum Sensing Simulator: Python simulation modeled on Hill Equation.  
 From Wikipedia:  
 "In biology, quorum sensing is the ability to detect and to respond to cell population density by gene regulation. As one example, quorum sensing (QS) enables bacteria to restrict the expression of specific genes to the high cell densities at which the resulting phenotypes will be most beneficial. Many species of bacteria use quorum sensing to coordinate gene expression according to the density of their local population. In similar fashion, some social insects use quorum sensing to determine where to nest."
 Our project was to create a model for a biological quorum sensing system. Essentially a "bacterium" will produce a protein (P) which produces an autoinducer(AI) which then feeds back and causes more of itself to be produced. We used the Hill equation to simulate this production and added necessary parameters to simulate responses over time (https://en.wikipedia.org/wiki/Hill_equation_(biochemistry)).
