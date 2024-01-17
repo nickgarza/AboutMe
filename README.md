@@ -1,8 +1,4 @@
 # Welcome to my GitHub!  
-I am a current senior studying at Johns Hopkins University in Baltimore, MD, with majors in computer science and biomedical engineering. My past experience has largely been in the computational biology field, working with genomic data
-and finding trends and indicators for cancer as well as cardiovascular disease. I hope to gain even more experience 
-in the future with courses like Human Computer Interaction and Artificial Intelligence to develop applications. This space will serve mostly as my workspace for informal/independent projects that have no conflict with my university allowing me to share
-source code.
 
 A few private projects not listed on this page include:
 
@@ -18,12 +14,12 @@ Beeline is an android application that seeks to create ridesharing groups to low
 DNA methylation is a key regulator of gene expression and as such has been thoroughly investigated in physiological studies. Our project used a data set from TCGA to investigate novel methylation effects in a diseased population of 1000 patients with the BRCA gene. We built a linear regression model relating methylation level and single nucleotide polymorphisms (SNPs) and also accounts for latent, biological, and technical confounders of the data extracted through cleaning. Our results identified notable association sites (BH corrected p < 0.05) between methylation and gene expression and were presented to our peers for feedback and review.
 
 
-## 4. Rudimentary Photoshop: written in ANSI C without use of APIs or such.  
+## 4. Rudimentary Photoshop: written in ANSI C without external Image APIs.  
 The photoshop-esqe tool allowed for grayscale, cropping, saturation, and channel swapping of the input photo.  
 <img width="638" alt="garden" src="https://user-images.githubusercontent.com/28008631/42184759-9a39cdb4-7e14-11e8-86c2-473d76feda93.png"> <img width="635" alt="garden-swap" src="https://user-images.githubusercontent.com/28008631/42184770-a4e46580-7e14-11e8-8edc-8fe0c8c7b56e.png"> <img width="636" alt="garden-grayscale" src="https://user-images.githubusercontent.com/28008631/42184783-af1cebee-7e14-11e8-86d5-2ba514428d30.png">   
 
 
-## 5. Chess: written in C++ without the use of APIs or such.  
+## 5. Chess: written in C++ without the use of External Game APIs.  
 The C++ chess game simulated a full game of chess until either a stalemate or checkmate was reached. Additionally, the chess game allowed the saving of a current game and the loading of previous matches.  
 <img width="564" alt="chess-screen" src="https://user-images.githubusercontent.com/28008631/42184317-1dcf047a-7e13-11e8-90e1-a9f793188a1e.png">
 
